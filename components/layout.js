@@ -4,7 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'rootkill';
+const name = 'rootkill-g';
 export const siteTitle = 'Ghidra';
 
 export default function Layout({ children, home }) {
